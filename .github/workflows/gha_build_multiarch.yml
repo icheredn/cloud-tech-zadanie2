@@ -36,4 +36,11 @@ jobs:
           cache-to: type=inline
           tags: |
             ghcr.io/icheredn/lab10:extended
+        
+      - name: CVE scan the image
+        uses: snyk/actions/docker@master
+        env:
+          SNYK_TOKEN: ${{ secrets.SNYK_TOKEN }}
+        with:
+          image: ghcr.io/icheredn/lab10:extended
       
