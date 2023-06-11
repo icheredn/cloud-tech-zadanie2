@@ -12,6 +12,18 @@ Packages przed uruchomieniem lancucha:
 
 ![image](https://github.com/icheredn/cloud-tech-zadanie2/assets/129091307/b2e5eced-c001-4646-974b-ef7c18761358)
 
+Nowy package lab10:
+![image](https://github.com/icheredn/cloud-tech-zadanie2/assets/129091307/7a7dfd59-5fd6-4085-8486-d63d25c17a89)
+
+2 architektury:
+![image](https://github.com/icheredn/cloud-tech-zadanie2/assets/129091307/0b83cdb4-6dd9-481a-8e5b-7123b5b05c2c)
+
+Critical severity vulnerability:
+![image](https://github.com/icheredn/cloud-tech-zadanie2/assets/129091307/86444a3a-86a1-4205-91a8-e1e1d426ba49)
+
+Ale: According to our scan, you are currently using the most secure version of the selected base image
+Nie ma naprawionej wersji Debian:11 curl:
+![image](https://github.com/icheredn/cloud-tech-zadanie2/assets/129091307/67b87270-3004-432e-8c6d-567776ad3aca)
 
 
 
