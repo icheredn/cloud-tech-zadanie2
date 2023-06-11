@@ -1,4 +1,4 @@
-name: GitHub Action flow to ghcr.io with local cache
+name: GitHub Action flow to ghcr.io with inline cache
 
 on:
   workflow_dispatch:
@@ -29,7 +29,7 @@ jobs:
         uses: docker/build-push-action@v3
         with:
           context: .
-          file: ./Dockerfile_prod
+          file: ./Dockerfile
           platforms: linux/x86_64,linux/arm64
           push: true
           cache-from: type=registry,ref=ghcr.io/icheredn/lab10:extended
