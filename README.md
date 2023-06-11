@@ -7,10 +7,13 @@ Uruchomienie GitHub Action:
 gh workflow run 59887414
 ![image](https://github.com/icheredn/cloud-tech-zadanie2/assets/129091307/3203ed75-b2c0-40a2-b655-6551cc64066b)
 
+
+![image](https://github.com/icheredn/cloud-tech-zadanie2/assets/129091307/b2e5eced-c001-4646-974b-ef7c18761358)
+
+
 Packages przed uruchomieniem lancucha:
 ![image](https://github.com/icheredn/cloud-tech-zadanie2/assets/129091307/ab2bbf19-baf6-4547-823e-d3185efe901b)
 
-![image](https://github.com/icheredn/cloud-tech-zadanie2/assets/129091307/b2e5eced-c001-4646-974b-ef7c18761358)
 
 Nowy package lab10:
 ![image](https://github.com/icheredn/cloud-tech-zadanie2/assets/129091307/7a7dfd59-5fd6-4085-8486-d63d25c17a89)
